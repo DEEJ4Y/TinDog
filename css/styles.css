@@ -1,0 +1,28 @@
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.download-button-text {
+  padding: 0% 0% 0% 6px;
+  font-family: sans-serif;
+}
+
+h1 {
+  padding: 15% 0%;
+  font-family: "Montserrat", sans-serif;
+  font-size: 3.5rem;
+  color: white;
+  line-height: 1.5;
+}
+
+.iPhone-img {
+  rotate: 25deg;
+}
+
+.navbar-brand {
+  font-size: 3rem;
+}
+
+#title {
+  background-color: #ff4c68;
+}
