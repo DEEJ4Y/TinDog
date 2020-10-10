@@ -3,24 +3,54 @@
 }
 
 .download-button-text {
-  padding: 0% 0% 0% 6px;
+  margin: 0% 0% 100px 0%;
+  padding: 0px 0px 0px 6px;
   font-family: sans-serif;
 }
 
+.fa-5x {
+  color: #ef8172;
+}
+
+.fa-5x:hover {
+  color: #ff4c68;
+}
+
+#features {
+  padding: 10% 15%;
+  text-align: center;
+}
+
+.feature-box {
+  margin: 0% auto;
+}
+
 h1 {
-  padding: 15% 0%;
+  padding: 15% 0% 0% 0%;
   font-family: "Montserrat", sans-serif;
   font-size: 3.5rem;
   color: white;
   line-height: 1.5;
 }
 
+h3 {
+  padding: 4.5% 0% 0% 0%;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5rem;
+}
+
 .iPhone-img {
+  margin: 10% 0%;
   rotate: 25deg;
 }
 
 .navbar-brand {
   font-size: 3rem;
+}
+
+p {
+  color: #8f8f8f;
+  margin: auto;
 }
 
 #title {
