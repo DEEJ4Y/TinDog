@@ -1,3 +1,7 @@
+.card {
+  margin: 0 0 7% 0;
+}
+
 .carousel-item {
   padding: 7% 15%;
 }
@@ -37,6 +41,12 @@ h1 {
   line-height: 1.5;
 }
 
+h2 {
+  padding: 4.5% 0% 0% 0%;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+}
+
 h3 {
   padding: 4.5% 0% 0% 0%;
   font-family: "Montserrat", sans-serif;
@@ -55,7 +65,7 @@ h3 {
 p {
   color: #8f8f8f;
   margin: auto;
-  padding-bottom: 13.5%;
+  padding: 0px 0px 16px 0px;
 }
 
 #press {
@@ -67,6 +77,15 @@ p {
 .press-logo {
   width: 15%;
   margin: 20px 20px 50px;
+}
+
+#pricing {
+  padding: 0px 50px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
 }
 
 #testimonials {
