@@ -1,3 +1,7 @@
+.btn {
+  margin: 30px 0px;
+}
+
 .card {
   margin: 0 0 7% 0;
 }
@@ -8,6 +12,18 @@
 
 .container-fluid {
   padding: 3% 15% 10%;
+}
+
+#cta {
+  background-color: #ff4c68;
+  color: #ffffff;
+  padding: 7% 15% 7% 15%;
+  text-align: center;
+  position: relative;
+}
+
+.cta-btn {
+  margin-right: 10px;
 }
 
 .download-button-text {
@@ -33,6 +49,19 @@
 
 .feature-box {
   margin: 0% auto;
+}
+
+#footer {
+  padding: 7% 15% 7% 15%;
+  text-align: center;
+}
+
+.footer-button {
+  padding: 20px 10px;
+}
+
+.footer-button:hover {
+  color: #ff4c68;
 }
 
 h1 {
