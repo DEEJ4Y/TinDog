@@ -4,7 +4,7 @@
 
 The goal of this project was to understand and implement the Bootstrap framework and advanced CSS in websites.
 
-## The things I learnt to use while creating this project:
+### The things I learnt to use while creating this project:
 
 - Bootstrap navbar
 - The Bootstrap grid layout system
