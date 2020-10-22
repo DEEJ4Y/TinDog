@@ -1,7 +1,3 @@
-body {
-  padding: 7% 15% 7% 15%;
-}
-
 h1,
 h2,
 h3,
@@ -47,7 +43,7 @@ p {
 #cta {
   background-color: #ff4c68;
   color: #ffffff;
-  /* padding: 7% 15% 7% 15%; */
+  padding: 7% 15% 7% 15%;
   text-align: center;
   position: relative;
 }
@@ -72,7 +68,7 @@ p {
 
 #features {
   background-color: white;
-  /* padding: 7% 15% 7% 15%; */
+  padding: 7% 15% 7% 15%;
   text-align: center;
   position: relative;
 }
@@ -82,7 +78,7 @@ p {
 }
 
 #footer {
-  /* padding: 7% 15% 7% 15%; */
+  padding: 7% 15% 7% 15%;
   text-align: center;
 }
 
@@ -111,10 +107,6 @@ p {
 }
 
 @media (max-width: 1128px) {
-  body {
-    padding: 0px;
-  }
-
   .btn {
     margin: 0px;
   }
