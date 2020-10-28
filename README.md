@@ -4,7 +4,7 @@
 
 The goal of this project was to understand and implement the Bootstrap framework and advanced CSS in websites.
 
-### The things I learnt to use while creating this project:
+## What I learnt
 
 - Bootstrap navbar
 - The Bootstrap grid layout system
@@ -20,9 +20,4 @@ The goal of this project was to understand and implement the Bootstrap framework
 - Combining CSS selectors
 - Selector priority in CSS
 
-The end result can be seen below.
-
-![Site Image 1](https://raw.githubusercontent.com/davidjosephind/TinDog/main/images/Site-img-5.jpg)
-![Site Image 2](https://raw.githubusercontent.com/davidjosephind/TinDog/main/images/Site-img-7.jpg)
-![Site Image 3](https://raw.githubusercontent.com/davidjosephind/TinDog/main/images/Site-img-6.jpg)
-![Site Image 4](https://raw.githubusercontent.com/davidjosephind/TinDog/main/images/Site-img-4.jpg)
+[Click here](https://davidjosephind.github.io/TinDog/) to view this website.
